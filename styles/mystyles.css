@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(165, 171, 207);
+}
+.font {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.pageLink {
+    text-decoration:underline ;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.indentedText {
+    font-weight: lighter;
+    font-size: smaller;
+    color: rgb(68, 68, 68);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: 375px;
+  }
